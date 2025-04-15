@@ -11,14 +11,15 @@ Respond to user interactions.
 - Create a script.js file and link it to a HTML.
 - Structure the document using DOCTYPE, html, head, and body.
 
->[!NOTE]
->  - Write JavaScript that:
->  - Changes text content dynamically.
->  - Modifies CSS styles via JavaScript.
->  - Adds or removes an element when a button is clicked.
-
+> [!NOTE]
+>
+> - Write JavaScript that:
+> - Changes text content dynamically.
+> - Modifies CSS styles via JavaScript.
+> - Adds or removes an element when a button is clicked.
 
 # Tasks
+
 - Create a well-structured HTML5 document.
 - Use at least 5 different HTML elements.
 - Ensure semantic correctness.
